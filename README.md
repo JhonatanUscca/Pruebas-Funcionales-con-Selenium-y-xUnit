@@ -16,7 +16,10 @@
 Valores de Prueba: Número: 50, Porcentaje: 10%
 Resultado Esperado: 5
 Análisis: Este escenario está diseñado para probar la funcionalidad básica de calcular un porcentaje de un número positivo. 
+
+
 [![A1.png](https://i.postimg.cc/RFgLgGNG/A1.png)](https://postimg.cc/ft0dLc70)
+
 
 ### Porcentaje de Valores Negativos
 Valores de Prueba: Número: -50, Porcentaje: 10%
